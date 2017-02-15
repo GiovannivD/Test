@@ -1,3 +1,4 @@
+#Dit is een aanpassing
 def main():
     geslacht_docent = str(input("Is de docent een man of een vrouw? "))
     mentor_docent = str(input("Is de docent een mentor? "))
